@@ -4,8 +4,6 @@ This repository contains supplementary materials for our submission.
 
 ## 📂 Directory Structure
 
-- `Models/SIRGN.py` – Implementation of the SIR-GN model used in our experiments.
-- `Models/GINE.py` – GINE model used as a baseline for comparison.
 - `Data/Synthetic_Dataset/` – Synthetic graph datasets used in controlled evaluation.
 - `Appendix/` – Additional experiments (e.g., perturbation tests) and supplementary results.
 
