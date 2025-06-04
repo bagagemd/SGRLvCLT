@@ -1,14 +1,18 @@
-# Anonymous Submission – Supplementary Code
+# Anonymous Submission – Supplementary Materials
 
-This repository contains supplementary material for our submission.
+This repository contains supplementary materials for our submission.
 
-## Directory Overview
+## 📂 Directory Structure
 
 - `Models/SIRGN.py` – Implementation of the SIR-GN model used in our experiments.
 - `Models/GINE.py` – GINE model used as a baseline for comparison.
-- `Data/Synthetic_Dataset/` – Synthetic datasets used in our controlled experiments.
-- `Appendix/` – Perturbation tests, additional experimental results, and extended proofs referenced in the appendix.
+- `Data/Synthetic_Dataset/` – Synthetic graph datasets used in controlled evaluation.
+- `Appendix/` – Additional experiments (e.g., perturbation tests), extended proofs, and supplementary results.
 
-This repository is intended for review and inspection only. A fully reproducible codebase, including training and evaluation scripts, will be released upon acceptance.
+## 📄 Supplementary Appendix
 
-[View Supplementary Appendix (PDF)](Appendix/spatial-sirgn_ICDM25_supplementary.pdf)
+[Click here to view the PDF appendix](Appendix/spatial-sirgn_ICDM25_supplementary.pdf)
+
+---
+
+> **Note:** This repository is provided for inspection only. Full reproducible code, including training and evaluation pipelines, will be released upon acceptance of the paper.
