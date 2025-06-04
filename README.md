@@ -7,7 +7,7 @@ This repository contains supplementary materials for our submission.
 - `Models/SIRGN.py` – Implementation of the SIR-GN model used in our experiments.
 - `Models/GINE.py` – GINE model used as a baseline for comparison.
 - `Data/Synthetic_Dataset/` – Synthetic graph datasets used in controlled evaluation.
-- `Appendix/` – Additional experiments (e.g., perturbation tests), extended proofs, and supplementary results.
+- `Appendix/` – Additional experiments (e.g., perturbation tests) and supplementary results.
 
 ## 📄 Supplementary Appendix
 
