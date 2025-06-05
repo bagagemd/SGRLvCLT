@@ -9,7 +9,7 @@ This repository contains supplementary materials for our submission.
 
 ## 📄 Supplementary Appendix
 
-[Click here to view the PDF appendix](Appendix/ICDM25_supplementary.pdf)
+[Click here to view the PDF of the extended paper with full appendix](Appendix/ICDM25_extended.pdf)
 
 ---
 
